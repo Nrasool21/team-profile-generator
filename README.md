@@ -20,4 +20,9 @@ I was given a task to build from scratch a Node.js command-line application that
 
 ## Link To The Video
 
+https://drive.google.com/file/d/1nQne-Q1lGphPwx8oaUNADIIHXY0OmF0Z/view
+
 ## Screenshots
+
+![screenshot1](assets/screenshots/Screenshot%202021-06-06%20at%2012.25.54.png)
+![screenshot1](assets/screenshots/Screenshot%202021-06-06%20at%2012.30.37.png)
